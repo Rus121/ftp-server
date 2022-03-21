@@ -1,8 +1,7 @@
 # ftp-server
-Easy install
-Vsftpd installer  on ubuntu/debian
+Vsftpd installer on ubuntu/debian
 ## Description 
-
+Script install vsftpd and ufw, open ports 20-21 and 1048:1084/tcp, add new user, this users' home folder is local root for ftp
 ## Using
 Download the script 
 ```bash
