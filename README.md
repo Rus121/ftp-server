@@ -5,7 +5,7 @@ Script install vsftpd and ufw, open ports 20-21 and 1048:1084/tcp, add new user,
 ## Using
 Download the script 
 ```bash
-git clone https://github.com/Rus121/ftp-server.git
+git clone https://github.com/rus121/ftp-server.git
 ```
 Open the folder
 ```bash
